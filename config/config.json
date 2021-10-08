@@ -1,0 +1,23 @@
+  {
+  "development": {
+    "username": "ederson",
+    "password": "123456",
+    "database": "bloco29",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "ederson",
+    "password": "123456",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ederson",
+    "password": "123456",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
